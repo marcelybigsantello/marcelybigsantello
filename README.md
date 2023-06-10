@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcelybigsantello
 - 👀 I’m interested in learning and expading horizons in Java programming language, Oracle and developing some personal projects. 
 - 🌱 I’m improving my English communication, listening, reading skills.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Financial Market
 - 📫 How to reach me: search for marcelybigsantello on your Github account and let's exchange some IT informations and experiences
 
 <!---
